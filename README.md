@@ -1,6 +1,6 @@
 # Recommendation Systems
 ## Movie Recommendations
-
+<img src="https://github.com/owtwo/Recommendation_Projects/blob/main/images/streaming-services.png" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
 <details>
         <summary>Context</summary>
         <br>
